@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">Hi! I'm CJ, a Frontend Developer passionate about building clean, responsive, and user-friendly web experiences.<br><br>💻 I work mainly with HTML, CSS, JavaScript, and React, and I'm constantly learning and improving my skills.<br><br>🚀 I enjoy turning ideas into functional interfaces, experimenting with new technologies, and building projects that help me grow as a developer.</p>
+<p data-importer="text" align="left">Hi! I'm CJ, a Frontend Developer passionate about building clean, responsive, and user-friendly web experiences.<br><br>💻 I work mainly with HTML, CSS, JavaScript, and React, and </p>
 
 ###
 
