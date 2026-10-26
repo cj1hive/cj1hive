@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">Hi! I'm CJ, a Frontend Developer passionate about building clean, responsive, and user-friendly web experiences.<br><br>💻 I work mainly with HTML, CSS, JavaScript, and React, and </p>
+<p></p> </p>
 
 ###
 
