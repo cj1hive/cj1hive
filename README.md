@@ -1,76 +1,51 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+# Hey 👋 What's Up?
 
-###
+<div align="center">
 
-<p>I'm a front End web dev</p>
+### I'm CJ Hive — Frontend Developer 💻
 
-###
+Building modern, responsive, and user-friendly web experiences.
 
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,redux,react,tailwind,nextjs,ts&theme=dark" />
+
+<br/><br/>
+
+<!-- GitHub Statistics -->
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=cj1hive&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E88&icon_color=FF2E88&text_color=C9D1D9" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=cj1hive&theme=tokyonight&hide_border=true&background=0D1117&ring=FF2E88&fire=FF2E88&currStreakLabel=FF2E88" />
+
+<br/>
+
+<!-- Contribution Graph -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cj1hive&bg_color=0D1117&color=00E5FF&line=FF2E88&point=FFD700&area=true&hide_border=true" width="100%" />
+
+<br/>
+
+### 🛠️ Technologies & Tools
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,ts,vite,git,github,vscode&theme=dark" />
+
+<br/><br/>
+
+### 🌐 Connect With Me
+
+<a href="https://github.com/cj1hive">
+  <img src="https://img.shields.io/badge/GitHub-CJHive-181717?style=for-the-badge&logo=github" />
+</a>
+
+<!-- Add your social links here -->
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=cj1hive&style=flat-square&color=FF2E88&label=PROFILE+VIEWS" />
+
+<br/>
+
+**"Code. Learn. Build. Repeat."** 🚀
+
 </div>
-###
-<p align="center">
-  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=C4S4BL4NC4&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="C4S4BL4NC4's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4S4BL4NC4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p> -->
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cj1hive&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cj1hive&theme=redical&hide_border=true" alt="Activity Graph" />
-</p>
-###
-
-<div data-importer="socials" align="center">
-  <a href="464909954327904258" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://open.spotify.com/user/6cbwm15shjuqhd1z59m378r0v?si=af2d8abb8dd047f4" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="52" height="40" alt="spotify logo"  />
-  </a>
-  <a href="https://www.instagram.com/cj1_hive/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="cj1hiv@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<div data-importer="activities" align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
