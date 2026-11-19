@@ -46,6 +46,6 @@ Building modern, responsive, and user-friendly web experiences.
 
 <br/>
 
-**"Code. Learn. Build. Repeat."** 🚀
+**"Code. Learn. Build."** 🚀
 
 </div>
